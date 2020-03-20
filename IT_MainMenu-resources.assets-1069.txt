@@ -1,9 +1,9 @@
 <entries>
 <entry name="CTRL_NO_ACTIVE">Không có tay cầm hoạt động</entry>
 <entry name="VIDEO_SHADERS">Chất lượng làm mờ:</entry>
-<entry name="VIDEO_OVERSCAN">Screen Scale</entry>
+<entry name="VIDEO_OVERSCAN">Tỉ lệ khung hình</entry>
 <entry name="NAV_RESET">Mặc định</entry>
-<entry name="BUTTON_INVENTORY">Inventory</entry>
+<entry name="BUTTON_INVENTORY">Hòm đồ</entry>
 <entry name="OS_INSTRUCT">Điều chỉnh thanh trượt đến khi khung game vừa với màn hình</entry>
 <entry name="CTRL_NO_ACTIVE_DESC">Ấn một nút trên tay cầm hoặc kết nối với tay cầm mới để kích hoạt</entry>
 <entry name="DESC_LANG">Đổi ngôn ngữ tại Main Menu</entry>
@@ -14,7 +14,7 @@
 <entry name="DESC_NATIVE_INPUT">Kích hoạt nếu gặp sự cố với tay cầm. Yêu cầu khởi động lại trò chơi.</entry>
 <entry name="OPTIONS_VIDEO">Hình ảnh</entry>
 <entry name="SCREEN_GAMEPAD">Tay cầm</entry>
-<entry name="KEYBOARD_NONE">None</entry>
+<entry name="KEYBOARD_NONE">Không có</entry>
 <entry name="LANG_FR">Français</entry>
 <entry name="MODAL_CONNECT_CONTROLLER_PROMPT">Kết nối với tay cầm để tiếp tục.</entry>
 <entry name="SCREEN_VIDEO">Hình ảnh</entry>
@@ -22,7 +22,7 @@
 <entry name="OPTIONS_AUDIO">Âm thanh</entry>
 <entry name="MOH_LOW">Thấp</entry>
 <entry name="DESC_SHADERS">Giảm để tăng hiệu năng trên máy cấu hình yếu.</entry>
-<entry name="AUDIO_SOUND_VOL">Sound Volume:</entry>
+<entry name="AUDIO_SOUND_VOL">Hiệu ứng:</entry>
 <entry name="CTRL_UNMAPPED">Chưa đặt</entry>
 <entry name="MAIN_EXTRAS">Thêm</entry>
 <entry name="SCREEN_AUDIO">Âm thanh</entry>
@@ -41,7 +41,7 @@
 <entry name="BUTTON_DASH">Lướt</entry>
 <entry name="PROFILE_LOADING">Loading...</entry>
 <entry name="NAV_BACK">Quay lại</entry>
-<entry name="BUTTON_SUPER_DASH">Lướt mạnh</entry>
+<entry name="BUTTON_SUPER_DASH">Lướt dài</entry>
 <entry name="VIDEO_PARTICLES">Hiệu ứng Hạt:</entry>
 <entry name="BUTTON_JUMP">Nhảy</entry>
 <entry name="PAUSE_MAIN">Thoát ra menu</entry>
@@ -57,7 +57,7 @@
 <entry name="BUTTON_DOWN">Xuống</entry>
 <entry name="CTRL_REMAP">Remap Controls</entry>
 <entry name="BUTTON_QCAST">Quick Cast</entry>
-<entry name="MOH_OFF">Off</entry>
+<entry name="MOH_OFF">Tắt</entry>
 <entry name="MODAL_QUIT_TO_MENU">Thoát ra menu?</entry>
 <entry name="OPTIONS_GAME">Game</entry>
 <entry name="BUTTON_MOVE">Move</entry>
@@ -67,9 +67,9 @@
 <entry name="BRIGHT_SLIDER">Độ sáng</entry>
 <entry name="BUTTON_MAP">Quick Map</entry>
 <entry name="BUTTON_EMPTY">-</entry>
-<entry name="AUDIO_MUSIC_VOL">Music Volume:</entry>
+<entry name="AUDIO_MUSIC_VOL">Nhạc nền:</entry>
 <entry name="LANG_JA">日本語</entry>
-<entry name="GAME_LANGUAGE">Language:</entry>
+<entry name="GAME_LANGUAGE">Ngôn ngữ:</entry>
 <entry name="DESC_VSYNC">Bật để có trải nghiệm mượt hơn. Hạn chế rách hình.</entry>
 <entry name="OPTIONS_KEYBOARD">Bàn phím</entry>
 <entry name="PROFILE_CLEAR_PROMPT">Xóa save game?</entry>
@@ -89,7 +89,7 @@
 <entry name="BUTTON_CAST">Focus / Cast</entry>
 <entry name="PAUSE_OPTIONS">Tùy chọn</entry>
 <entry name="VIDEO_DISPLAY">Màn hình:</entry>
-<entry name="OS_SLIDER">Scale</entry>
+<entry name="OS_SLIDER">Tỉ lệ</entry>
 <entry name="MAIN_START">Bắt đầu game</entry>
 <entry name="MODAL_KEEP_RES">Giữ độ phân giải màn hình mới?</entry>
 <entry name="LANG_KO">한국어</entry>
@@ -117,7 +117,7 @@
 <entry name="UI_MENU_ACHIEVEMENTS_PS4">Danh hiệu</entry>
 <entry name="SCREEN_KEYBOARD">Bàn phím</entry>
 <entry name="NAV_APPLY">Trở lại</entry>
-<entry name="AUDIO_MASTER_VOL">Master Volume:</entry>
+<entry name="AUDIO_MASTER_VOL">Âm lượng tổng:</entry>
 <entry name="LANG_ES">Español</entry>
 <entry name="CTRL_NONE">Không có tay cầm nào được kết nối</entry>
 <entry name="VIDEO_VSYNC">V-Sync:</entry>
