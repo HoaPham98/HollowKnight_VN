@@ -382,7 +382,7 @@
 <entry name="GG_LOCKED_DESC_HIVEKNIGHT">I guard the heart of the hive for my Queen</entry>
 <entry name="GG_S_GHOST_HU">Dreamborn god of travellers and sages</entry>
 <entry name="NOTE_PAINTMASTER">&quot;O God inspired, master of arts,&lt;br&gt;Whose works shall eternal endure,&lt;br&gt;Peer beyond Our minds and hearts,&lt;br&gt;Reveal to Us the God most pure!&quot;&lt;br&gt;- Prayer to the Artist</entry>
-<entry name="UI_MENU_STYLE">Menu Style:</entry>
+<entry name="UI_MENU_STYLE">Phong cách menu:</entry>
 <entry name="GG_UNLOCK_TALK">....Gods of Our future. Seek thee, We shall... To devote Our all...</entry>
 <entry name="DESC_PAINTMASTER">Skilled and respected master of the nail. Always eager to learn new things.</entry>
 <entry name="GG_SUMMARY_TITLE">Hall of Gods</entry>

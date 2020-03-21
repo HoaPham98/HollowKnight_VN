@@ -104,7 +104,7 @@
 <entry name="DESC_NATIVE_ACHIEVEMENTS">Hiện thông báo trong game khi đạt được thành tích.</entry>
 <entry name="KEYBOARD_UNMAPPED">Chưa đặt</entry>
 <entry name="OPTIONS_CREDITS">Credits</entry>
-<entry name="MODAL_PROGRESS">Quá trình sẽ được lưu</entry>
+<entry name="MODAL_PROGRESS">Quá trình chơi sẽ được lưu</entry>
 <entry name="SCREEN_ACHIEVEMENTS">Thành tích</entry>
 <entry name="SCREEN_GAMEPAD_REMAP">Thay đổi nút tay cầm</entry>
 <entry name="LANG_DE">Deutsch</entry>
