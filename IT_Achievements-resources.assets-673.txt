@@ -1,5 +1,5 @@
 <entries>
-<entry name="COMPLETIONGG_TITLE">Pure Completion</entry>
+<entry name="COMPLETIONGG_TITLE">Pure Completidfdfson</entry>
 <entry name="GRIMM_TEXT">Defeat Troupe Leader Grimm</entry>
 <entry name="HIDDEN_ACHIEVEMENT">This achievement is hidden</entry>
 <entry name="GREY_PRINCE_TEXT">Defeat Grey Prince Zote</entry>
